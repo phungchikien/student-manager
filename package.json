@@ -1,0 +1,27 @@
+{
+  "name": "Quan ly sinh vien",
+  "version": "1.0.0",
+  "description": "Quan ly sinh vien",
+  "main": "student_management.js",
+  "dependencies": {
+    "7": "^0.0.1",
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "kia": "^0.0.0",
+    "knex": "^3.1.0",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-json-router": "^1.2.0",
+    "koa-json-schema": "^3.0.1",
+    "koa-router": "^12.0.1",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.2"
+  },
+  "scripts": {
+    "start": "node student_management.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phung Chi Kien <phungchikien208@gmail.com>",
+  "license": "MIT"
+}
